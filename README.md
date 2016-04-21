@@ -6,7 +6,7 @@
 
 ## Description
 
-PHP: CD Collection App. This exercise was used to further help us understand Objects as a convenient way to store the same information for various entities. We practiced retrieving information from users through a form and used forEach loops to then present the inputted information back to them in the form of a CD object.
+PHP: CD Collection App. This exercise was used to further help us understand Objects as a convenient way to store the same information for various entities. We practiced returning hardcoded CD objects and returning them on the site, this site functions without user input.
 
 ## Prerequisites
 
